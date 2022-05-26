@@ -17,10 +17,4 @@ At the beginning of the game, the 3 players and the dealer are dealt 2 cards eac
 
    <img src = "https://user-images.githubusercontent.com/94145850/167747202-64ab7bcd-8d78-4a18-8846-7e2870b530ee.png" width="2100" height="500"/>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
